@@ -1,0 +1,227 @@
+[
+    {
+        "fetter_desc": [
+            "2：敌方所有式神降低35点护甲。",
+            "4：敌方所有式神降低50点护甲。"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 2,
+                "skill_desc": "敌方所有式神降低35点护甲。",
+                "skill_name": "灵I"
+            },
+            {
+                "skill_count": 4,
+                "skill_desc": "敌方所有式神降低50点护甲。",
+                "skill_name": "灵II"
+            }
+        ],
+        "fetter_name": "器灵",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_ling.png",
+        "fetter_id": 8
+    },
+    {
+        "fetter_desc": [
+            "2：【自然】类式神普攻时15%的概率使目标降低80%攻击速度持续3秒。",
+            "4：【自然】类式神普攻时20%的概率使目标无法释放技能持续4秒。",
+            "6：【自然】类式神普攻时20%的概率使目标冰冻，持续2.5秒。"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 2,
+                "skill_desc": "【自然】类式神普攻时15%的概率使目标降低80%攻击速度持续3秒。",
+                "skill_name": "自然I"
+            },
+            {
+                "skill_count": 4,
+                "skill_desc": "【自然】类式神普攻时20%的概率使目标无法释放技能持续4秒。",
+                "skill_name": "自然II"
+            },
+            {
+                "skill_count": 6,
+                "skill_desc": "【自然】类式神普攻时20%的概率使目标冰冻，持续2.5秒。",
+                "skill_name": "自然III"
+            }
+        ],
+        "fetter_name": "自然",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_ziran.png",
+        "fetter_id": 15
+    },
+    {
+        "fetter_desc": [
+            "2：【武士】类式神攻击附带#cffba35(+3.5%目标当前生命值) #n的#U法术伤害#n。（对野怪最多造成150点伤害）",
+            "4：【武士】类式神攻击附带#cffba35(+10%目标当前生命值) #n的#U法术伤害#n。（对野怪最多造成300点伤害）"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 2,
+                "skill_desc": "【武士】类式神攻击附带#cffba35(+3.5%目标当前生命值) #n的#U法术伤害#n。（对野怪最多造成150点伤害）",
+                "skill_name": "武士I"
+            },
+            {
+                "skill_count": 4,
+                "skill_desc": "【武士】类式神攻击附带#cffba35(+10%目标当前生命值) #n的#U法术伤害#n。（对野怪最多造成300点伤害）",
+                "skill_name": "武士II"
+            }
+        ],
+        "fetter_name": "武士",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_wushi.png",
+        "fetter_id": 12
+    },
+    {
+        "fetter_desc": [
+            "3：己方所有式神获得15%吸血。",
+            "6：己方所有式神获得18%吸血。"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 3,
+                "skill_desc": "己方所有式神获得15%吸血。",
+                "skill_name": "恶鬼I"
+            },
+            {
+                "skill_count": 6,
+                "skill_desc": "己方所有式神获得18%吸血。",
+                "skill_name": "恶鬼II"
+            }
+        ],
+        "fetter_name": "恶鬼",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_egui.png",
+        "fetter_id": 17
+    },
+    {
+        "fetter_desc": [
+            "2：【僵尸】类式神被击杀后会在2秒后复活（每回合只可触发一次）。"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 2,
+                "skill_desc": "【僵尸】类式神被击杀后会在2秒后复活（每回合只可触发一次）。",
+                "skill_name": "僵尸I"
+            }
+        ],
+        "fetter_name": "僵尸",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_jiangshi.png",
+        "fetter_id": 18
+    },
+    {
+        "fetter_desc": [
+            "2：召唤大涂壁协助作战。",
+            "4：召唤寄生魂协助作战。",
+            "6：召唤石距协助作战。"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 2,
+                "skill_desc": "召唤大涂壁协助作战。",
+                "skill_name": "山林I"
+            },
+            {
+                "skill_count": 4,
+                "skill_desc": "召唤寄生魂协助作战。",
+                "skill_name": "山林II"
+            },
+            {
+                "skill_count": 6,
+                "skill_desc": "召唤石距协助作战。",
+                "skill_name": "山林III"
+            }
+        ],
+        "fetter_name": "山林",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_shanlin.png",
+        "fetter_id": 14
+    },
+    {
+        "fetter_desc": [
+            "2：己方场上每有一个不同[特性]式神为【大妖】类式神提高4%造成所有伤害。"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 2,
+                "skill_desc": "己方场上每有一个不同[特性]式神为【大妖】类式神提高4%造成所有伤害。",
+                "skill_name": "大妖I"
+            }
+        ],
+        "fetter_name": "大妖",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_dayao.png",
+        "fetter_id": 11
+    },
+    {
+        "fetter_desc": [
+            "2：己方所有式神提高50%攻击获得回蓝。",
+            "4：战斗开始时己方随机3个式神获得100点法力值。"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 2,
+                "skill_desc": "己方所有式神提高50%攻击获得回蓝。",
+                "skill_name": "神明I"
+            },
+            {
+                "skill_count": 4,
+                "skill_desc": "战斗开始时己方随机3个式神获得100点法力值。",
+                "skill_name": "神明II"
+            }
+        ],
+        "fetter_name": "神明",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_shenming.png",
+        "fetter_id": 10
+    },
+    {
+        "fetter_desc": [
+            "2：【鸟妖】类式神受到普攻时20%的概率3秒内免疫所有伤害。(内置CD12秒)"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 2,
+                "skill_desc": "【鸟妖】类式神受到普攻时20%的概率3秒内免疫所有伤害。(内置CD12秒)",
+                "skill_name": "鸟妖I"
+            }
+        ],
+        "fetter_name": "鸟妖",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_niaoyao.png",
+        "fetter_id": 16
+    },
+    {
+        "fetter_desc": [
+            "3：【冥界】类式神当有敌方式神被击杀时，回复75生命值并减少0.5秒技能冷却。",
+            "6：【冥界】类式神当有敌方式神被击杀时，回复100生命值并减少1.5秒技能冷却。"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 3,
+                "skill_desc": "【冥界】类式神当有敌方式神被击杀时，回复75生命值并减少0.5秒技能冷却。",
+                "skill_name": "冥界I"
+            },
+            {
+                "skill_count": 6,
+                "skill_desc": "【冥界】类式神当有敌方式神被击杀时，回复100生命值并减少1.5秒技能冷却。",
+                "skill_name": "冥界II"
+            }
+        ],
+        "fetter_name": "冥界",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_mingjie.png",
+        "fetter_id": 9
+    },
+    {
+        "fetter_desc": [
+            "2：【兽妖】类式神提高25%攻速。",
+            "4：己方所有式神提高30%攻速。"
+        ],
+        "fetter_skills": [
+            {
+                "skill_count": 2,
+                "skill_desc": "【兽妖】类式神提高25%攻速。",
+                "skill_name": "兽妖I"
+            },
+            {
+                "skill_count": 4,
+                "skill_desc": "己方所有式神提高30%攻速。",
+                "skill_name": "兽妖II"
+            }
+        ],
+        "fetter_name": "兽妖",
+        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhongzu_shouyao.png",
+        "fetter_id": 13
+    }
+]
