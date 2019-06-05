@@ -15,38 +15,38 @@
 </template>
 
 <script>
-  export default {
-    props: {
-      heros: {
-        type: Array
+export default {
+  props: {
+    heros: {
+      type: Array
+    }
+  },
+  methods: {
+    getHeroStyle(level) {
+      switch (level) {
+        case 1:
+          return "border: 2px solid gray";
+        case 2:
+          return "border: 2px solid green";
+        case 3:
+          return "border: 2px solid blue";
+        case 4:
+          return "border: 2px solid violet";
+        case 5:
+          return "border: 2px solid orange";
       }
     },
-    methods: {
-      getHeroStyle(level) {
-        switch (level) {
-          case 1:
-            return "border: 2px solid gray";
-          case 2:
-            return "border: 2px solid green";
-          case 3:
-            return "border: 2px solid blue";
-          case 4:
-            return "border: 2px solid violet";
-          case 5:
-            return "border: 2px solid orange";
-        }
-      },
-      checkHero(hero) {
-        if (hero.checked) {
-          this.$store.dispatch("zhongzuInc", hero.zhongzu);
-          this.$store.dispatch("zhiyeInc", hero.zhiye);
-        } else {
-          this.$store.dispatch("zhongzuDec", hero.zhongzu);
-          this.$store.dispatch("zhiyeDec", hero.zhiye);
-        }
+    checkHero(hero) {
+      if (hero.checked) {
+        this.$store.dispatch("zhongzuInc", hero.zhongzu);
+        this.$store.dispatch("zhiyeInc", hero.zhiye);
+      } else {
+        this.$store.dispatch("zhongzuDec", hero.zhongzu);
+        this.$store.dispatch("zhiyeDec", hero.zhiye);
       }
     }
-  };
+  }
+};
 </script>
 
 <style scoped>

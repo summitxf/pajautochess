@@ -1,3 +1,5 @@
+import Vue from 'vue'
+
 const state = {
   main: 0,
   zhongzu_fetters: [],

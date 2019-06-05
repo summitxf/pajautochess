@@ -64,6 +64,7 @@
         for (let element of zhiyes) {
           this.$store.dispatch("zhiyeClear", element.fetter_id);
         }
+        
       }
     }
   };
