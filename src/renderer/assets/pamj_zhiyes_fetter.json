@@ -1,167 +1,167 @@
 [
     {
-        "fetter_desc": [
+        "desc": [
             "2：【守】类式神普攻时30%的概率获得100点护盾。(不同等级羁绊的护盾可叠加)",
             "4：【守】类式神普攻时30%的概率获得150#cffba35(+7%最大生命值) #n点护盾。(不同等级羁绊的护盾可叠加)",
             "6：【守】类式神普攻时30%的概率获得200#cffba35(+10%最大生命值) #n点护盾。(不同等级羁绊的护盾可叠加)"
         ],
-        "fetter_skills": [
+        "skills": [
             {
-                "skill_count": 2,
-                "skill_desc": "【守】类式神普攻时30%的概率获得100点护盾。(不同等级羁绊的护盾可叠加)",
-                "skill_name": "守I"
+                "count": 2,
+                "desc": "【守】类式神普攻时30%的概率获得100点护盾。(不同等级羁绊的护盾可叠加)",
+                "name": "守I"
             },
             {
-                "skill_count": 4,
-                "skill_desc": "【守】类式神普攻时30%的概率获得150#cffba35(+7%最大生命值) #n点护盾。(不同等级羁绊的护盾可叠加)",
-                "skill_name": "守II"
+                "count": 4,
+                "desc": "【守】类式神普攻时30%的概率获得150#cffba35(+7%最大生命值) #n点护盾。(不同等级羁绊的护盾可叠加)",
+                "name": "守II"
             },
             {
-                "skill_count": 6,
-                "skill_desc": "【守】类式神普攻时30%的概率获得200#cffba35(+10%最大生命值) #n点护盾。(不同等级羁绊的护盾可叠加)",
-                "skill_name": "守III"
+                "count": 6,
+                "desc": "【守】类式神普攻时30%的概率获得200#cffba35(+10%最大生命值) #n点护盾。(不同等级羁绊的护盾可叠加)",
+                "name": "守III"
             }
         ],
-        "fetter_name": "守",
-        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_shou.png",
-        "fetter_id": 5
+        "name": "守",
+        "icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_shou.png",
+        "id": 5
     },
     {
-        "fetter_desc": [
+        "desc": [
             "3：己方所有式神提高25%造成的技能伤害，每秒回复4点法力值。",
             "6：己方所有式神提高25%造成的技能伤害，每秒回复4点法力值。",
             "9：己方所有式神技能冷却时间减少30%，每秒回复4点法力值。"
         ],
-        "fetter_skills": [
+        "skills": [
             {
-                "skill_count": 2,
-                "skill_desc": "己方所有式神提高25%造成的技能伤害，每秒回复4点法力值。",
-                "skill_name": "巫I"
+                "count": 2,
+                "desc": "己方所有式神提高25%造成的技能伤害，每秒回复4点法力值。",
+                "name": "巫I"
             },
             {
-                "skill_count": 4,
-                "skill_desc": "己方所有式神提高25%造成的技能伤害，每秒回复4点法力值。",
-                "skill_name": "巫II"
+                "count": 4,
+                "desc": "己方所有式神提高25%造成的技能伤害，每秒回复4点法力值。",
+                "name": "巫II"
             },
             {
-                "skill_count": 6,
-                "skill_desc": "己方所有式神技能冷却时间减少30%，每秒回复4点法力值。",
-                "skill_name": "巫III"
+                "count": 6,
+                "desc": "己方所有式神技能冷却时间减少30%，每秒回复4点法力值。",
+                "name": "巫III"
             }
         ],
-        "fetter_name": "巫",
-        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_wu.png",
-        "fetter_id": 3
+        "name": "巫",
+        "icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_wu.png",
+        "id": 3
     },
     {
-        "fetter_desc": [
+        "desc": [
             "3：使随机一名敌人每秒受到75真实伤害，目标死亡后自动传染给另一名敌人。",
             "6：使敌方全体式神每秒受到20#cffba35(+3%目标最大生命值) #n真实伤害。"
         ],
-        "fetter_skills": [
+        "skills": [
             {
-                "skill_count": 3,
-                "skill_desc": "使随机一名敌人每秒受到75真实伤害，目标死亡后自动传染给另一名敌人。",
-                "skill_name": "术I"
+                "count": 3,
+                "desc": "使随机一名敌人每秒受到75真实伤害，目标死亡后自动传染给另一名敌人。",
+                "name": "术I"
             },
             {
-                "skill_count": 6,
-                "skill_desc": "使敌方全体式神每秒受到20#cffba35(+3%目标最大生命值) #n真实伤害。",
-                "skill_name": "术II"
+                "count": 6,
+                "desc": "使敌方全体式神每秒受到20#cffba35(+3%目标最大生命值) #n真实伤害。",
+                "name": "术II"
             }
         ],
-        "fetter_name": "术",
-        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_shu.png",
-        "fetter_id": 7
+        "name": "术",
+        "icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_shu.png",
+        "id": 7
     },
     {
-        "fetter_desc": [
+        "desc": [
             "3：【侍】类式神提高40护甲和20法抗。",
             "6：【侍】类式神提高55护甲和25法抗。",
             "9：【侍】类式神提高70护甲和30法抗。"
         ],
-        "fetter_skills": [
+        "skills": [
             {
-                "skill_count": 3,
-                "skill_desc": "【侍】类式神提高40护甲和20法抗。",
-                "skill_name": "侍I"
+                "count": 3,
+                "desc": "【侍】类式神提高40护甲和20法抗。",
+                "name": "侍I"
             },
             {
-                "skill_count": 6,
-                "skill_desc": "【侍】类式神提高55护甲和25法抗。",
-                "skill_name": "侍II"
+                "count": 6,
+                "desc": "【侍】类式神提高55护甲和25法抗。",
+                "name": "侍II"
             },
             {
-                "skill_count": 9,
-                "skill_desc": "【侍】类式神提高70护甲和30法抗。",
-                "skill_name": "侍III"
+                "count": 9,
+                "desc": "【侍】类式神提高70护甲和30法抗。",
+                "name": "侍III"
             }
         ],
-        "fetter_name": "侍",
-        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_shi.png",
-        "fetter_id": 2
+        "name": "侍",
+        "icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_shi.png",
+        "id": 2
     },
     {
-        "fetter_desc": [
+        "desc": [
             "3：【射】类式神提高30攻击。",
             "6：【射】类式神提高45攻击。"
         ],
-        "fetter_skills": [
+        "skills": [
             {
-                "skill_count": 3,
-                "skill_desc": "【射】类式神提高30攻击。",
-                "skill_name": "射I"
+                "count": 3,
+                "desc": "【射】类式神提高30攻击。",
+                "name": "射I"
             },
             {
-                "skill_count": 6,
-                "skill_desc": "【射】类式神提高45攻击。",
-                "skill_name": "射II"
+                "count": 6,
+                "desc": "【射】类式神提高45攻击。",
+                "name": "射II"
             }
         ],
-        "fetter_name": "射",
-        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_she.png",
-        "fetter_id": 4
+        "name": "射",
+        "icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_she.png",
+        "id": 4
     },
     {
-        "fetter_desc": [
+        "desc": [
             "3：己方随机单位获得110点护甲并每秒回复25点生命值，该单位死亡后效果会传递至其他友方单位。",
             "6：己方所有单位获得110点护甲并每秒回复25点生命值。"
         ],
-        "fetter_skills": [
+        "skills": [
             {
-                "skill_count": 3,
-                "skill_desc": "己方随机单位获得110点护甲并每秒回复25点生命值，该单位死亡后效果会传递至其他友方单位。",
-                "skill_name": "祝I"
+                "count": 3,
+                "desc": "己方随机单位获得110点护甲并每秒回复25点生命值，该单位死亡后效果会传递至其他友方单位。",
+                "name": "祝I"
             },
             {
-                "skill_count": 6,
-                "skill_desc": "己方所有单位获得110点护甲并每秒回复25点生命值。",
-                "skill_name": "祝II"
+                "count": 6,
+                "desc": "己方所有单位获得110点护甲并每秒回复25点生命值。",
+                "name": "祝II"
             }
         ],
-        "fetter_name": "祝",
-        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_fuzhu.png",
-        "fetter_id": 6
+        "name": "祝",
+        "icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_fuzhu.png",
+        "id": 6
     },
     {
-        "fetter_desc": [
+        "desc": [
             "3：【忍】类式神提高15%暴击率与150%暴击伤害。",
             "6：【忍】类式神提高10%暴击率与100%暴击伤害。"
         ],
-        "fetter_skills": [
+        "skills": [
             {
-                "skill_count": 3,
-                "skill_desc": "【忍】类式神提高15%暴击率与150%暴击伤害。",
-                "skill_name": "忍I"
+                "count": 3,
+                "desc": "【忍】类式神提高15%暴击率与150%暴击伤害。",
+                "name": "忍I"
             },
             {
-                "skill_count": 6,
-                "skill_desc": "【忍】类式神提高10%暴击率与100%暴击伤害。",
-                "skill_name": "忍II"
+                "count": 6,
+                "desc": "【忍】类式神提高10%暴击率与100%暴击伤害。",
+                "name": "忍II"
             }
         ],
-        "fetter_name": "忍",
-        "fetter_icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_ren.png",
-        "fetter_id": 1
+        "name": "忍",
+        "icon": "https://images.weserv.nl/?url=nie.res.netease.com/moba/m/qt/20190420165155/static/gui/res/autochess/zhiye_ren.png",
+        "id": 1
     }
 ]

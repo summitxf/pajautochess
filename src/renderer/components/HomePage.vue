@@ -1,9 +1,8 @@
 <template>
   <div>
-    <hero-table></hero-table>
+    <hero-table ref="herotable"></hero-table>
     <spec-table></spec-table>
-    <fetter-table></fetter-table>
-    
+    <!-- <fetter-table></fetter-table> -->
   </div>
 </template>
 
