@@ -88,6 +88,14 @@ const actions = {
   zhiyeClear({ commit }, id) {
     // do something async
     commit('CLEAR_ZHIYE_COUNTER', id)
+  },
+  heroCheck({ commit }, heros) {
+    // do something async
+    commit('CHECKED_HERO', heros)
+  },
+  heroUncheck({ commit }, heros) {
+    // do something async
+    commit('UNCHECKED_HERO', heros)
   }
 }
 

@@ -1,9 +1,7 @@
 <template>
   <table>
     <tr>
-      <th>
-        <el-button @click="clearAll">清空</el-button>
-      </th>
+      <th>&nbsp;</th>
 
       <th v-for="(zhongzu,index) in zhongzus" :key="index">
         <el-image style="width: 24px; height: 24px" :src="zhongzu.fetter_icon"></el-image>
@@ -30,7 +28,7 @@
   import heros from "@/assets/pamj_heros.json";
   import zhongzus from "@/assets/pamj_zhongzus_fetter.json";
   import zhiyes from "@/assets/pamj_zhiyes_fetter.json";
-
+  
   export default {
     components: { HeroItem },
     data() {
@@ -55,16 +53,6 @@
           }
         }
         return rsHeros;
-      },
-
-      clearAll() {
-        for (let element of zhongzus) {
-          this.$store.dispatch("zhongzuClear", element.fetter_id);
-        }
-        for (let element of zhiyes) {
-          this.$store.dispatch("zhiyeClear", element.fetter_id);
-        }
-        
       }
     }
   };
